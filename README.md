@@ -1,4 +1,4 @@
-### Oi,Its your boy Sixtus. What's popping yo? 👋
+### Oi,It's your boy Sixtus. What's popping yo? 👋
 ![Yours Truly](sparklehalf.PNG)
 
 
@@ -8,7 +8,7 @@ I'm a web developer who is interested in React, Django, Web 3 and Ant Design.
 - 🌱 I’m currently learning Solidity and Web 3.
 - 📫 How to reach me: sikky606@gmail.com
 - 😄 Pronouns: Lol, what is this one again?
-- ⚡ Fun fact: I love Digital marketing and Email marketing.
+- ⚡ Fun fact: I love Digital marketing and Email marketing... Also Ronaldo is the GOAT, nothing you can tell me.
 
 ### I do UIUX on my spare time
 ![Yours Truly](mobile-app.png)
