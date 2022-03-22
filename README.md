@@ -21,7 +21,7 @@ My YouTube channel.
 [![YouTube](https://www.seekpng.com/png/full/13-133607_youtube-logo-png-youtube-logo-100-x-100.png)](https://www.youtube.com/channel/UCOEBIndIvs57G9REdqQtIwg)
 
 
-Coffee? >>> bc1qmlk32ydxjxprx75pl5343kesjjzzfwsujnfr8u
+Coffee? BTC >>> bc1qmlk32ydxjxprx75pl5343kesjjzzfwsujnfr8u
 
 <!--
 **sparkle666/sparkle666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
