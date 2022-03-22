@@ -15,7 +15,7 @@ I'm a web developer who is interested in React, Django, Web 3 and Ant Design.
 ### I also write technical articles
 [Web 3 Solidity Article](https://dev.to/sparklesix)
 
-### I also make screencast videos of stuff that interest me.
+### I also make YouTube videos on stuffs that interest me.
 [![YouTube](https://www.seekpng.com/png/full/13-133607_youtube-logo-png-youtube-logo-100-x-100.png)](https://www.youtube.com/channel/UCOEBIndIvs57G9REdqQtIwg)
 
 
