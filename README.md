@@ -1,4 +1,4 @@
-## Oi, boss. It's your boy, Sixtus 👋
+## Oi, Boss. It's your boy, Sixtus 👋
 ![Yours Truly](sparklehalf.PNG)
 
 
