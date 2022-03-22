@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a web developer who loves using React, Django, Web 3 and Ant Design.
+I'm a web developer who is interested in React, Django, Web 3 and Ant Design.
 - 🔭 I’m currently working on something personal.
 - 🌱 I’m currently learning Solidity and Web 3.
 - 📫 How to reach me: sikky606@gmail.com
