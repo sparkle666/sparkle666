@@ -7,18 +7,23 @@ I'm a web developer who is interested in React, Django, Web 3 and Ant Design.
 - 🔭 I’m currently working on something personal.
 - 🌱 I’m currently learning Solidity and Web 3.
 - 📫 How to reach me: sikky606@gmail.com
-- ⚡ Fun fact: I love Digital marketing and Email marketing... Also Ronaldo is the GOAT, nothing you can tell me.
+- ⚡ Fun fact: I love Graphics Design... Also Ronaldo is the GOAT, nothing you can tell me.
 
 ### I do UIUX on my spare time
 ![Yours Truly](mobile-app.png)
 
-### I also write technical articles
-[Web 3 Solidity Article](https://dev.to/sparklesix)
+### I do write technical articles on blockchain technology
+
+Solidity Tutorial: How to build and deploy a smart contract to send Ether from one account to another [Read Here...](https://dev.to/sparklesix/solidity-tutorial-how-to-build-and-deploy-a-smart-contract-to-send-ether-from-one-account-to-another-n54)
+Writing and Deploying A Solidity Smart Contract to Rinkeby Test Network [Read Here…] (https://dev.to/sparklesix/writing-and-deploying-a-solidity-smart-contract-to-rinkeby-test-network-2d0k)
+Setting up and Deploying a solidity smart contract to Ropsten testnet with Alchemy and Hardhat [Read Here] (https://sixtusanyanwu.hashnode.dev/setting-up-and-deploying-a-solidity-smart-contract-to-ropsten-testnet-with-alchemy-and-hardhat)
+
+****
 
 ### I also make YouTube videos on stuffs that interest me. 👇👇👇
 My YouTube channel.
 
-[![YouTube](https://www.seekpng.com/png/full/13-133607_youtube-logo-png-youtube-logo-100-x-100.png)](https://www.youtube.com/channel/UCOEBIndIvs57G9REdqQtIwg)
+[ Visit my Channel...](https://www.youtube.com/channel/UCOEBIndIvs57G9REdqQtIwg)
 
 
 Coffee? BTC >>> bc1qmlk32ydxjxprx75pl5343kesjjzzfwsujnfr8u
