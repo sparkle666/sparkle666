@@ -14,9 +14,9 @@ I'm a web developer who is interested in React, Django, Web 3 and Ant Design.
 
 ### I do write technical articles on blockchain technology
 
-Solidity Tutorial: How to build and deploy a smart contract to send Ether from one account to another [Read Here...](https://dev.to/sparklesix/solidity-tutorial-how-to-build-and-deploy-a-smart-contract-to-send-ether-from-one-account-to-another-n54)
-Writing and Deploying A Solidity Smart Contract to Rinkeby Test Network [Read Here…] (https://dev.to/sparklesix/writing-and-deploying-a-solidity-smart-contract-to-rinkeby-test-network-2d0k)
-Setting up and Deploying a solidity smart contract to Ropsten testnet with Alchemy and Hardhat [Read Here] (https://sixtusanyanwu.hashnode.dev/setting-up-and-deploying-a-solidity-smart-contract-to-ropsten-testnet-with-alchemy-and-hardhat)
+- Solidity Tutorial: How to build and deploy a smart contract to send Ether from one account to another [Read Here...](https://dev.to/sparklesix/solidity-tutorial-how-to-build-and-deploy-a-smart-contract-to-send-ether-from-one-account-to-another-n54)
+- Writing and Deploying A Solidity Smart Contract to Rinkeby Test Network [Read Here…] (https://dev.to/sparklesix/writing-and-deploying-a-solidity-smart-contract-to-rinkeby-test-network-2d0k)
+- Setting up and Deploying a solidity smart contract to Ropsten testnet with Alchemy and Hardhat [Read Here] (https://sixtusanyanwu.hashnode.dev/setting-up-and-deploying-a-solidity-smart-contract-to-ropsten-testnet-with-alchemy-and-hardhat)
 
 ****
 
