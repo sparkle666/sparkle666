@@ -1,16 +1,13 @@
-## Oi, Boss. It's your boy, Sixtus 👋
+## Ohayo, Boss. Oreha Web Developer da 👋
 ![Yours Truly](sparklehalf.PNG)
 
 
 ## 🚀 About Me
-Passionate Web developer who is interested in React, Django, Web 3 and Crypto
-- 🔭 I’m currently working on something personal.
-- 🌱 I’m currently learning Solidity and Web 3.
+Passionate Web developer who is interested in React, Django.
+- 🔭 I’m currently working on personal projects.
 - 📫 How to reach me: sikky606@gmail.com
-- ⚡ Fun fact: I love Graphics Design... Also Ronaldo is the GOAT, nothing you can tell me.
+- ⚡ Fun fact: One Punch Man is my favourite manga... Fubuki supremacy >>>
 
-### I do UIUX on my spare time
-![Yours Truly](mobile-app.png)
 
 ### I do write technical articles on blockchain technology
 
@@ -18,16 +15,7 @@ Passionate Web developer who is interested in React, Django, Web 3 and Crypto
 - Writing and Deploying A Solidity Smart Contract to Rinkeby Test Network [Read Here…](https://dev.to/sparklesix/writing-and-deploying-a-solidity-smart-contract-to-rinkeby-test-network-2d0k)
 - Setting up and Deploying a solidity smart contract to Ropsten testnet with Alchemy and Hardhat [Read Here](https://sixtusanyanwu.hashnode.dev/setting-up-and-deploying-a-solidity-smart-contract-to-ropsten-testnet-with-alchemy-and-hardhat)
 
-****
-
-### I also make YouTube videos on stuffs that interest me. 👇👇👇
-My YouTube channel.
-
-[ Visit my Channel...](https://www.youtube.com/channel/UCOEBIndIvs57G9REdqQtIwg)
-
-
-Coffee? BTC >>> bc1qmlk32ydxjxprx75pl5343kesjjzzfwsujnfr8u
-
+#### Open to new oppurtunities, arigato!
 <!--
 **sparkle666/sparkle666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
