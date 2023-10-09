@@ -9,26 +9,57 @@ Passionate Web developer who is interested in React, Django.
 - ⚡ Fun fact: One Punch Man is my favourite manga... Fubuki supremacy >>>
 
 ### My Projects
-Mover: A freight broker webapp that connects customers with local drivers who have pickup trucks, minivans, and cargo vans, for moving large items.
+##### Mover
+A freight broker webapp that connects customers with local drivers who have pickup trucks, minivans, and cargo vans, for moving large items.
 ![Mover](moverapp.png)
+
 Live Link: https://moverapp.onrender.com/
+
 Repository: https://github.com/Co-Lab-You-Belong-in-Tech/mover
+
 Tech Stack: Django, Bootstrap
 
 
-GT Tracker
+#### GT Tracker
 
 GT Tracker App is designed to streamline the management of guest check-ins and check-outs in a hotel or hospitality establishment
 ![Gtracker](gtracker.jpg)
 Live URL: Coming soon
+
 Tech Stack: Django, Bootstrap
+
 Repo: https://github.com/sparkle666/django-guest-app
+
+#### Expense Tracker
 
 A simple expenses tracker app to handle your little expenses.
 ![Expense Tracker](exp_tracker.png)
 Live URL: Coming soon
+
 Tech Stack: ReactJs
+
 Repo: https://github.com/sparkle666/exp-tracker
+#### Crypto News App
+
+A web app for getting latest crypto newd and updates.
+![Cryptoapp](cryptoapp.png)
+Tech Stack: ReactJs, Ant Design
+
+Live Link: https://cryptopiaa.netlify.app/news
+
+Repo: https://cryptopiaa.netlify.app/news
+
+#### Breast Cancer Detection
+A simple breast cancer detection model with Logistic Regression model.
+
+Repo: https://github.com/sparkle666/breast-cancer-detection
+
+### Open source contribution
+
+#### Google Developer Group Aba
+Designed the base Backend and built extensible APIs for the Developer group Backend.
+
+Repo: https://github.com/sparkle666/gdg-aba-website-backend
 
 ### Technical Articles
 - 5 Entry Level React Native Bugs That Might Frustrate Your Life [With Solutions] [Read Here](https://dev.to/sparklesix/5-entry-level-react-native-bugs-that-might-frustrate-your-life-with-solutions-3abp)
