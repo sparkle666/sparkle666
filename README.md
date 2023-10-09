@@ -8,6 +8,15 @@ Passionate Web developer who is interested in React, Django.
 - 📫 How to reach me: sikky606@gmail.com
 - ⚡ Fun fact: One Punch Man is my favourite manga... Fubuki supremacy >>>
 
+### My Projects
+Mover: A freight broker webapp that connects customers with local drivers who have pickup trucks, minivans, and cargo vans, for moving large items.
+![Mover](moverapp.png)
+Live Link: https://moverapp.onrender.com/
+Repository: https://github.com/Co-Lab-You-Belong-in-Tech/mover
+
+GT Tracker
+
+GT Tracker App is designed to streamline the management of guest check-ins and check-outs in a hotel or hospitality establishment
 
 ### I do write technical articles on blockchain technology
 
