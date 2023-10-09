@@ -34,7 +34,7 @@ Repo: https://github.com/sparkle666/django-guest-app
 A simple clone of deliveroo mobile app for food delivery.
 ![Deliveroo](Deliveroo.jpg)
 
-Tech: React Native.
+Tech Stack: React Native.
 
 Repo: https://github.com/sparkle666/deliveroo-clone
 
