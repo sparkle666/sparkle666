@@ -30,6 +30,14 @@ Tech Stack: Django, Bootstrap
 
 Repo: https://github.com/sparkle666/django-guest-app
 
+#### Deliverooo Clone
+A simple clone of deliveroo mobile app for food delivery.
+![Deliveroo](Deliveroo.jpg)
+
+Tech: React Native.
+
+Repo: https://github.com/sparkle666/deliveroo-clone
+
 #### Expense Tracker
 
 A simple expenses tracker app to handle your little expenses.
