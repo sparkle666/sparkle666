@@ -9,7 +9,7 @@ Passionate Web developer who is interested in React, Django.
 - ⚡ Fun fact: One Punch Man is my favourite manga... Fubuki supremacy >>>
 
 ### My Projects
-##### Mover
+#### Mover
 A freight broker webapp that connects customers with local drivers who have pickup trucks, minivans, and cargo vans, for moving large items.
 ![Mover](moverapp.png)
 
@@ -19,6 +19,17 @@ Repository: https://github.com/Co-Lab-You-Belong-in-Tech/mover
 
 Tech Stack: Django, Bootstrap
 
+#### ProjectPro
+
+ProjectPro is a Student Project Allocation and Management App for managing the allocation of project topics to students and assigning supervisors to them.
+
+![PorjectPro](smartmockups_loohubyy.jpg)
+
+Live URL: https://projectpro-ohsu.onrender.com/
+
+Tech Stack: Django, Bootstrap
+
+Repo: https://github.com/sparkle666/student-project-management
 
 #### GT Tracker
 
