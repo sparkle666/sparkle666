@@ -3,12 +3,42 @@
 
 
 ## 🚀 About Me
-Passionate Web developer who is interested in React, Django.
+Passionate Fullstack developer who is interested in ReactJs, AdonisJs, NextJs, Expo, React Native, FastApi, Django, AI, LLMs.
 - 🔭 I’m currently working on personal projects.
 - 📫 How to reach me: sikky606@gmail.com
 - ⚡ Fun fact: One Punch Man is my favourite manga... Fubuki supremacy >>>
 
 ### My Projects
+
+Declutta is a marketplace platform that connects people who want to declutter their homes with buyers looking for secondhand items. Users can list items for sale or giveaway, chat with potential buyers, manage wishlists, and complete secure transactions through Paystack integration.
+
+I architected and built the complete backend infrastructure using AdonisJS and TypeScript, focusing on payment security, data integrity, and developer experience.
+
+**Live API:** [Backend Repository](https://github.com/sparkle666/declutta-backend)
+
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ix3j8yk0rrl1trpfvtuq.png)
+
+
+
+**Collinzo Cigars** — *collinzocigar.ng*  
+
+**Live E-Commerce Store | Full-Stack (React.js + Firebase)**  
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahndkf5o5zjq7occydkb.png)
+
+A premium online cigar lounge selling curated cigars, vapes, shisha, lighters & accessories. Features secure checkout, dynamic product catalog, user accounts, and real-time stock updates. Built for speed, SEO, and mobile-first shopping.  
+
+**Key Features:**  
+- Responsive product grid with Add-to-Cart  
+- Secure Paystack payments (server-verified)  
+- User auth (login/signup)  
+- Location-based delivery (Benin City)  
+- Newsletter signup & policy pages  
+
+*Live at [collinzocigar.ng](https://collinzocigar.ng)*
+
+
 #### Mover
 A freight broker webapp that connects customers with local drivers who have pickup trucks, minivans, and cargo vans, for moving large items.
 ![Mover](moverapp.png)
